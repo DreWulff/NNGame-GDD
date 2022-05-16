@@ -18,5 +18,5 @@ Story:
 Requirements:
 * Gravity and movement
 * Prototype sprites
-* FLashlight-like lighting
+* Flashlight-like lighting
 * Inventory system
